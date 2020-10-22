@@ -1,7 +1,7 @@
 from random import shuffle
 
-CARD_OPTION_FILENAME = "input.txt"
-CARD_COUNT = 5
+CARD_OPTION_FILENAME = "pres_final_debate_input.txt"
+CARD_COUNT = 10
 card_options = []
 
 with open(CARD_OPTION_FILENAME, "r") as input_filename:
